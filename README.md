@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey 👋 I'm Aderibige Festus</h1>
 
 ###
 
-<p align="left">I'm Aderibigbe Festus<br>I am a Frontend Web Developer<br> As a Front-end Web Developer, I specialize in creating responsive, beautiful, and functional websites and web applications that are optimized for user experience.</p>
+<p align="left">I am a Frontend Web Developer<br> As a Front-end Web Developer, I specialize in creating responsive, beautiful, and functional websites and web applications that are optimized for user experience.</p>
 
 ###
 
