@@ -1,8 +1,10 @@
-<h1 align="left">Hey 👋 I'm Aderibige Festus</h1>
+<h1 align="left">Hey 👋 I'm Aderibige Festus Adewale</h1>
 
 ###
 
-<p align="left">I am a Frontend Web Developer<br> As a Front-end Web Developer, I specialize in creating responsive, beautiful, and functional websites and web applications that are optimized for user experience.</p>
+<p align="left">Frontend Engineer with 3+ years of experience building scalable, high-performance web applications using React.js, Next.js, and TypeScript. Strong in frontend architecture, authentication systems (JWT, OAuth), SEO optimization using SSR/SSG, accessibility standards (ARIA), advanced state management, and API integration. Proven ability to deliver measurable improvements, including performance optimization and increased user engagement across real estate, e-commerce, and social platforms.</p>
+
+<p align="left">I am a Frontend Engineer<br> As a Frontend Engineer, I specialize in creating responsive, beautiful, and functional websites and web applications that are optimized for user experience.</p>
 
 ###
 
@@ -10,7 +12,7 @@
 
 ###
 
-<p align="left">✨  Turning ideas into real-life products. <br>👨‍💻 I work with HTML, CSS, Javascript, ReactJs, Bootstrap, and Tailwindcss.<br>🔭 I’m currently learning TypeScript<br>💬 Ping me about anything Web Development<br>🤝 I am open to collaborations and jobs on projects/ideas</p>
+<p align="left">✨  Turning ideas into real-life products. <br>👨‍💻 I work with HTML, CSS, JavaScript, ReactJS, Bootstrap, and TailwindCSS.<br>🔭 <br>💬 Ping me about anything Web Development<br>🤝 I am open to collaborations and jobs on projects/ideas</p>
 
 ###
 
