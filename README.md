@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Aderibigbe Festus Adewale</h1>
 
 <p align="left">
-Frontend Engineer (3+ years) building scalable, high-performance web apps with <b>React</b>, <b>Next.js</b> and <b>TypeScript</b>. 
+Frontend Engineer (4+ years) building scalable, high-performance web apps with <b>React</b>, <b>Next.js</b> and <b>TypeScript</b>. 
 Strong in frontend architecture, authentication (<b>JWT / OAuth</b>), SEO (<b>SSR / SSG</b>), accessibility (<b>ARIA</b>), state management, and API integration.
 </p>
 
